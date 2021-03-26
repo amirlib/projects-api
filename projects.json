@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "5fb9953bd98214b6df37174d",
+    "Name": "Backend Project",
+    "Score": 88,
+    "DurationInDays": 35,
+    "BugsCount": 74,
+    "MadeDadeline": false
+  },
+  {
+    "Id": "5fb9953b9937c7bcd60c4bc5",
+    "Name": "Design Project",
+    "Score": 68,
+    "DurationInDays": 55,
+    "BugsCount": 52,
+    "MadeDadeline": false
+  },
+  {
+    "Id": "5fb9953b899dd436c5604120",
+    "Name": "Backend Project",
+    "Score": 90,
+    "DurationInDays": 36,
+    "BugsCount": 34,
+    "MadeDadeline": true
+  },
+  {
+    "Id": "5fb9953b97e765bfc40b0e64",
+    "Name": "Frontend Project",
+    "Score": 99,
+    "DurationInDays": 51,
+    "BugsCount": 32,
+    "MadeDadeline": true
+  },
+  {
+    "Id": "5fb9953b9cbcef501edc3282",
+    "Name": "Design Project",
+    "Score": 97,
+    "DurationInDays": 68,
+    "BugsCount": 42,
+    "MadeDadeline": true
+  }
+]

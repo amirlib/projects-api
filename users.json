@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "5fb9953bd98214b6df37174d",
+    "Name": "Amir Liberzon",
+    "Email": "amir.lib@gmail.com",
+    "Password": "A1b2c3d4",
+    "Team": "Developers",
+    "JoinedAt": "2021-03-26"
+  },
+  {
+    "Id": "5fb9953b9937c7bcd60c4bc5",
+    "Name": "Inbal Biton",
+    "Email": "inbal.bit@gmail.com",
+    "Password": "A1b2c3d4",
+    "Team": "Developers",
+    "JoinedAt": "2021-03-25"
+  },
+  {
+    "Id": "5fb9953b899dd436c5604120",
+    "Name": "Lior Pezman",
+    "Email": "lior.pez@gmail.com",
+    "Password": "A1b2c3d4",
+    "Team": "Marketing",
+    "JoinedAt": "2021-03-24"
+  },
+  {
+    "Id": "5fb9953b97e765bfc40b0e64",
+    "Name": "Ido Goldshtain",
+    "Email": "ido.gold@gmail.com",
+    "Password": "A1b2c3d4",
+    "Team": "Marketing",
+    "JoinedAt": "2021-03-23"
+  },
+  {
+    "Id": "5fb9953b9cbcef501edc3282",
+    "Name": "Itamar Fellus",
+    "Email": "itamar.dellus@gmail.com",
+    "Password": "A1b2c3d4",
+    "Team": "QA",
+    "JoinedAt": "2021-03-22"
+  }
+]
